@@ -39,3 +39,10 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# local collaboration notes and prototypes
+.claude/
+CLAUDE_WORK_LOG.md
+CODEX_README.md
+sales-app.html
+deliverables/
