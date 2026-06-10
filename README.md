@@ -18,6 +18,8 @@ workflow for office administrators, salespeople, and delivery drivers.
 
 ## Demo
 
+[Open the live web demo](https://jingyi0102.github.io/messi-sales/)
+
 Default administrator account:
 
 ```text
